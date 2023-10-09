@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/node": "^18.15.3",
+    "typescript": "^5.2.2"
+  }
+}
